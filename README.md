@@ -1,6 +1,6 @@
 # STOCK MANAGE SYSTEM
 
-Building a .NET MVC WITH DB FIRST in .NET WITH DBFIRST.
+Building STOCK MANAGE SYSTEM in .NET WITH DBFIRST.
 
 ### Show some :heart: and star the repo to support the project
 
